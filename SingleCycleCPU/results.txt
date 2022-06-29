@@ -1,0 +1,476 @@
+周期数                                :00000000
+pc:	 00000000
+instr:		 00f00093
+r00: xxxxxxxx
+r01: 00000000
+r02: 00000000
+r03: 00000000
+r04: 00000000
+r05: 00000000
+r06: 00000000
+r07: 00000000
+r08: 00000000
+r09: 00000000
+r10: 00000000
+r11: 00000000
+r12: 00000000
+r13: 00000000
+r14: 00000000
+r15: 00000000
+r16: 00000000
+r17: 00000000
+r18: 00000000
+r19: 00000000
+r20: 00000000
+r21: 00000000
+r22: 00000000
+r23: 00000000
+r24: 00000000
+r25: 00000000
+r26: 00000000
+r27: 00000000
+r28: 00000000
+r29: 00000000
+r30: 00000000
+r31: 00000000
+Memory:	
+dm00:	 xx xx xx xx
+dm04:	 xx xx xx xx
+dm08:	 xx xx xx xx
+dm12:	 xx xx xx xx
+dm16:	 xx xx xx xx
+dm20:	 xx xx xx xx
+dm24:	 xx xx xx xx
+dm28:	 xx xx xx xx
+dm32:	 xx xx xx xx
+dm36:	 xx xx xx xx
+dm40:	 xx xx xx xx
+dm44:	 xx xx xx xx
+dm48:	 xx xx xx xx
+dm52:	 xx xx xx xx
+dm56:	 xx xx xx xx
+dm60:	 xx xx xx xx
+dm64:	 xx xx xx xx
+dm68:	 xx xx xx xx
+dm72:	 xx xx xx xx
+dm76:	 xx xx xx xx
+dm80:	 xx xx xx xx
+dm84:	 xx xx xx xx
+dm88:	 xx xx xx xx
+dm92:	 xx xx xx xx
+dm96:	 xx xx xx xx
+dm100:	 xx xx xx xx
+dm104:	 xx xx xx xx
+dm108:	 xx xx xx xx
+dm112:	 xx xx xx xx
+dm116:	 xx xx xx xx
+dm120:	 xx xx xx xx
+dm124:	 xx xx xx xx
+周期数                                :00000001
+pc:	 00000004
+instr:		 00d08113
+r00: xxxxxxxx
+r01: 0000000f
+r02: 00000000
+r03: 00000000
+r04: 00000000
+r05: 00000000
+r06: 00000000
+r07: 00000000
+r08: 00000000
+r09: 00000000
+r10: 00000000
+r11: 00000000
+r12: 00000000
+r13: 00000000
+r14: 00000000
+r15: 00000000
+r16: 00000000
+r17: 00000000
+r18: 00000000
+r19: 00000000
+r20: 00000000
+r21: 00000000
+r22: 00000000
+r23: 00000000
+r24: 00000000
+r25: 00000000
+r26: 00000000
+r27: 00000000
+r28: 00000000
+r29: 00000000
+r30: 00000000
+r31: 00000000
+Memory:	
+dm00:	 xx xx xx xx
+dm04:	 xx xx xx xx
+dm08:	 xx xx xx xx
+dm12:	 xx xx xx xx
+dm16:	 xx xx xx xx
+dm20:	 xx xx xx xx
+dm24:	 xx xx xx xx
+dm28:	 xx xx xx xx
+dm32:	 xx xx xx xx
+dm36:	 xx xx xx xx
+dm40:	 xx xx xx xx
+dm44:	 xx xx xx xx
+dm48:	 xx xx xx xx
+dm52:	 xx xx xx xx
+dm56:	 xx xx xx xx
+dm60:	 xx xx xx xx
+dm64:	 xx xx xx xx
+dm68:	 xx xx xx xx
+dm72:	 xx xx xx xx
+dm76:	 xx xx xx xx
+dm80:	 xx xx xx xx
+dm84:	 xx xx xx xx
+dm88:	 xx xx xx xx
+dm92:	 xx xx xx xx
+dm96:	 xx xx xx xx
+dm100:	 xx xx xx xx
+dm104:	 xx xx xx xx
+dm108:	 xx xx xx xx
+dm112:	 xx xx xx xx
+dm116:	 xx xx xx xx
+dm120:	 xx xx xx xx
+dm124:	 xx xx xx xx
+周期数                                :00000002
+pc:	 00000008
+instr:		 001101b3
+r00: xxxxxxxx
+r01: 0000000f
+r02: 0000001c
+r03: 00000000
+r04: 00000000
+r05: 00000000
+r06: 00000000
+r07: 00000000
+r08: 00000000
+r09: 00000000
+r10: 00000000
+r11: 00000000
+r12: 00000000
+r13: 00000000
+r14: 00000000
+r15: 00000000
+r16: 00000000
+r17: 00000000
+r18: 00000000
+r19: 00000000
+r20: 00000000
+r21: 00000000
+r22: 00000000
+r23: 00000000
+r24: 00000000
+r25: 00000000
+r26: 00000000
+r27: 00000000
+r28: 00000000
+r29: 00000000
+r30: 00000000
+r31: 00000000
+Memory:	
+dm00:	 xx xx xx xx
+dm04:	 xx xx xx xx
+dm08:	 xx xx xx xx
+dm12:	 xx xx xx xx
+dm16:	 xx xx xx xx
+dm20:	 xx xx xx xx
+dm24:	 xx xx xx xx
+dm28:	 xx xx xx xx
+dm32:	 xx xx xx xx
+dm36:	 xx xx xx xx
+dm40:	 xx xx xx xx
+dm44:	 xx xx xx xx
+dm48:	 xx xx xx xx
+dm52:	 xx xx xx xx
+dm56:	 xx xx xx xx
+dm60:	 xx xx xx xx
+dm64:	 xx xx xx xx
+dm68:	 xx xx xx xx
+dm72:	 xx xx xx xx
+dm76:	 xx xx xx xx
+dm80:	 xx xx xx xx
+dm84:	 xx xx xx xx
+dm88:	 xx xx xx xx
+dm92:	 xx xx xx xx
+dm96:	 xx xx xx xx
+dm100:	 xx xx xx xx
+dm104:	 xx xx xx xx
+dm108:	 xx xx xx xx
+dm112:	 xx xx xx xx
+dm116:	 xx xx xx xx
+dm120:	 xx xx xx xx
+dm124:	 xx xx xx xx
+周期数                                :00000003
+pc:	 0000000c
+instr:		 40218233
+r00: xxxxxxxx
+r01: 0000000f
+r02: 0000001c
+r03: 0000002b
+r04: 00000000
+r05: 00000000
+r06: 00000000
+r07: 00000000
+r08: 00000000
+r09: 00000000
+r10: 00000000
+r11: 00000000
+r12: 00000000
+r13: 00000000
+r14: 00000000
+r15: 00000000
+r16: 00000000
+r17: 00000000
+r18: 00000000
+r19: 00000000
+r20: 00000000
+r21: 00000000
+r22: 00000000
+r23: 00000000
+r24: 00000000
+r25: 00000000
+r26: 00000000
+r27: 00000000
+r28: 00000000
+r29: 00000000
+r30: 00000000
+r31: 00000000
+Memory:	
+dm00:	 xx xx xx xx
+dm04:	 xx xx xx xx
+dm08:	 xx xx xx xx
+dm12:	 xx xx xx xx
+dm16:	 xx xx xx xx
+dm20:	 xx xx xx xx
+dm24:	 xx xx xx xx
+dm28:	 xx xx xx xx
+dm32:	 xx xx xx xx
+dm36:	 xx xx xx xx
+dm40:	 xx xx xx xx
+dm44:	 xx xx xx xx
+dm48:	 xx xx xx xx
+dm52:	 xx xx xx xx
+dm56:	 xx xx xx xx
+dm60:	 xx xx xx xx
+dm64:	 xx xx xx xx
+dm68:	 xx xx xx xx
+dm72:	 xx xx xx xx
+dm76:	 xx xx xx xx
+dm80:	 xx xx xx xx
+dm84:	 xx xx xx xx
+dm88:	 xx xx xx xx
+dm92:	 xx xx xx xx
+dm96:	 xx xx xx xx
+dm100:	 xx xx xx xx
+dm104:	 xx xx xx xx
+dm108:	 xx xx xx xx
+dm112:	 xx xx xx xx
+dm116:	 xx xx xx xx
+dm120:	 xx xx xx xx
+dm124:	 xx xx xx xx
+周期数                                :00000004
+pc:	 00000010
+instr:		 003272b3
+r00: xxxxxxxx
+r01: 0000000f
+r02: 0000001c
+r03: 0000002b
+r04: 0000000f
+r05: 00000000
+r06: 00000000
+r07: 00000000
+r08: 00000000
+r09: 00000000
+r10: 00000000
+r11: 00000000
+r12: 00000000
+r13: 00000000
+r14: 00000000
+r15: 00000000
+r16: 00000000
+r17: 00000000
+r18: 00000000
+r19: 00000000
+r20: 00000000
+r21: 00000000
+r22: 00000000
+r23: 00000000
+r24: 00000000
+r25: 00000000
+r26: 00000000
+r27: 00000000
+r28: 00000000
+r29: 00000000
+r30: 00000000
+r31: 00000000
+Memory:	
+dm00:	 xx xx xx xx
+dm04:	 xx xx xx xx
+dm08:	 xx xx xx xx
+dm12:	 xx xx xx xx
+dm16:	 xx xx xx xx
+dm20:	 xx xx xx xx
+dm24:	 xx xx xx xx
+dm28:	 xx xx xx xx
+dm32:	 xx xx xx xx
+dm36:	 xx xx xx xx
+dm40:	 xx xx xx xx
+dm44:	 xx xx xx xx
+dm48:	 xx xx xx xx
+dm52:	 xx xx xx xx
+dm56:	 xx xx xx xx
+dm60:	 xx xx xx xx
+dm64:	 xx xx xx xx
+dm68:	 xx xx xx xx
+dm72:	 xx xx xx xx
+dm76:	 xx xx xx xx
+dm80:	 xx xx xx xx
+dm84:	 xx xx xx xx
+dm88:	 xx xx xx xx
+dm92:	 xx xx xx xx
+dm96:	 xx xx xx xx
+dm100:	 xx xx xx xx
+dm104:	 xx xx xx xx
+dm108:	 xx xx xx xx
+dm112:	 xx xx xx xx
+dm116:	 xx xx xx xx
+dm120:	 xx xx xx xx
+dm124:	 xx xx xx xx
+周期数                                :00000005
+pc:	 00000014
+instr:		 0042e333
+r00: xxxxxxxx
+r01: 0000000f
+r02: 0000001c
+r03: 0000002b
+r04: 0000000f
+r05: 0000000b
+r06: 00000000
+r07: 00000000
+r08: 00000000
+r09: 00000000
+r10: 00000000
+r11: 00000000
+r12: 00000000
+r13: 00000000
+r14: 00000000
+r15: 00000000
+r16: 00000000
+r17: 00000000
+r18: 00000000
+r19: 00000000
+r20: 00000000
+r21: 00000000
+r22: 00000000
+r23: 00000000
+r24: 00000000
+r25: 00000000
+r26: 00000000
+r27: 00000000
+r28: 00000000
+r29: 00000000
+r30: 00000000
+r31: 00000000
+Memory:	
+dm00:	 xx xx xx xx
+dm04:	 xx xx xx xx
+dm08:	 xx xx xx xx
+dm12:	 xx xx xx xx
+dm16:	 xx xx xx xx
+dm20:	 xx xx xx xx
+dm24:	 xx xx xx xx
+dm28:	 xx xx xx xx
+dm32:	 xx xx xx xx
+dm36:	 xx xx xx xx
+dm40:	 xx xx xx xx
+dm44:	 xx xx xx xx
+dm48:	 xx xx xx xx
+dm52:	 xx xx xx xx
+dm56:	 xx xx xx xx
+dm60:	 xx xx xx xx
+dm64:	 xx xx xx xx
+dm68:	 xx xx xx xx
+dm72:	 xx xx xx xx
+dm76:	 xx xx xx xx
+dm80:	 xx xx xx xx
+dm84:	 xx xx xx xx
+dm88:	 xx xx xx xx
+dm92:	 xx xx xx xx
+dm96:	 xx xx xx xx
+dm100:	 xx xx xx xx
+dm104:	 xx xx xx xx
+dm108:	 xx xx xx xx
+dm112:	 xx xx xx xx
+dm116:	 xx xx xx xx
+dm120:	 xx xx xx xx
+dm124:	 xx xx xx xx
+周期数                                :00000006
+pc:	 00000018
+instr:		 00234fb3
+r00: xxxxxxxx
+r01: 0000000f
+r02: 0000001c
+r03: 0000002b
+r04: 0000000f
+r05: 0000000b
+r06: 0000000f
+r07: 00000000
+r08: 00000000
+r09: 00000000
+r10: 00000000
+r11: 00000000
+r12: 00000000
+r13: 00000000
+r14: 00000000
+r15: 00000000
+r16: 00000000
+r17: 00000000
+r18: 00000000
+r19: 00000000
+r20: 00000000
+r21: 00000000
+r22: 00000000
+r23: 00000000
+r24: 00000000
+r25: 00000000
+r26: 00000000
+r27: 00000000
+r28: 00000000
+r29: 00000000
+r30: 00000000
+r31: 00000000
+Memory:	
+dm00:	 xx xx xx xx
+dm04:	 xx xx xx xx
+dm08:	 xx xx xx xx
+dm12:	 xx xx xx xx
+dm16:	 xx xx xx xx
+dm20:	 xx xx xx xx
+dm24:	 xx xx xx xx
+dm28:	 xx xx xx xx
+dm32:	 xx xx xx xx
+dm36:	 xx xx xx xx
+dm40:	 xx xx xx xx
+dm44:	 xx xx xx xx
+dm48:	 xx xx xx xx
+dm52:	 xx xx xx xx
+dm56:	 xx xx xx xx
+dm60:	 xx xx xx xx
+dm64:	 xx xx xx xx
+dm68:	 xx xx xx xx
+dm72:	 xx xx xx xx
+dm76:	 xx xx xx xx
+dm80:	 xx xx xx xx
+dm84:	 xx xx xx xx
+dm88:	 xx xx xx xx
+dm92:	 xx xx xx xx
+dm96:	 xx xx xx xx
+dm100:	 xx xx xx xx
+dm104:	 xx xx xx xx
+dm108:	 xx xx xx xx
+dm112:	 xx xx xx xx
+dm116:	 xx xx xx xx
+dm120:	 xx xx xx xx
+dm124:	 xx xx xx xx
